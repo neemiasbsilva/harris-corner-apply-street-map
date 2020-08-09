@@ -3,7 +3,7 @@
 ## Stree map
 
 <p align="center"><img src="dataset/street-map-01.png" width="45%" height="45%"> <img src="corner_dataset/street-map-01.png" width="45%" height="45%"></p> 
-<h6 align="center">The figure show two images of street map. The <i>Left</i> is one of the dataset input, and <i>right</i> is harris corner detection result.</h6>
+<h6 align="center">The figure show two images of street map. The <i>Left</i> image describe dataset input, and <i>right</i> is harris corner detection result.</h6>
 
 
 ## Getting Started
